@@ -12,7 +12,7 @@
 ![](https://komarev.com/ghpvc/?username=POABOB&style=for-the-badge)
 
 
-[![Rainbow cat's github stats](https://github-readme-stats.vercel.app/api?username=POABOB&count_private=true&show_icons=true&theme=vue&hide=contribs,prs)%5D(https://github.com/anuraghazra/github-readme-stats)
+[![Rainbow cat's github stats](https://github-readme-stats.vercel.app/api?username=POABOB&count_private=true&show_icons=true&theme=vue&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=POABOB&layout=compact&theme=vue&hide=html,css,kotlin,dockerfile,perl,makefile,python,Tcl)](https://github.com/anuraghazra/github-readme-stats)
 
 
