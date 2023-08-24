@@ -1,7 +1,7 @@
 ### Hi there\, I'm [POABOB](https://github.com/POABOB) 👋  
 
 - 🔭  I’m currently working on software development work 
-- 🌱  I’m currently learning `golang`,`vuejs`,`go-kit`,`microservice`,`k8s` ...
+- 🌱  I’m currently learning `golang`,`vuejs`,`go-kit`,`go-zero`,`gin`,`microservice`,`k8s` ...
 - 📫  How to reach me: 
     -  ✨ zxc752166@gmail.com
 - 🚀  This is my personal blog [poabob.github.io](https://poabob.github.io)
@@ -12,8 +12,8 @@
 ![](https://komarev.com/ghpvc/?username=POABOB&style=for-the-badge)
 
 
-[![Rainbow cat's github stats](https://github-readme-stats.vercel.app/api?username=POABOB&count_private=true&show_icons=true&theme=vue&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=POABOB&layout=compact&theme=vue&hide=html,css,kotlin,dockerfile,perl,makefile,python,Tcl)](https://github.com/anuraghazra/github-readme-stats)
+[![Rainbow cat's github stats](https://github-readme-stats.vercel.app/api?username=POABOB&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=POABOB&layout=compact&theme=dark&hide=html,css,kotlin,dockerfile,perl,makefile,python,Tcl)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
