@@ -1,7 +1,7 @@
 ### Hi there\, I'm [POABOB](https://github.com/POABOB) 👋  
 
 - 🔭  I’m currently working on software development work 
-- 🌱  I’m currently learning `golang`,`vuejs`,`go-kit`,`go-zero`,`gin`,`microservice`,`k8s` ...
+- 🌱  I’m currently learning `golang`,`vuejs`,`go-zero`,`gin`,`microservice`,`k8s` ...
 - 📫  How to reach me: 
     -  ✨ zxc752166@gmail.com
 - 🚀  This is my personal blog [poabob.github.io](https://poabob.github.io)
